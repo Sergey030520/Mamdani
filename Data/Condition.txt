@@ -1,0 +1,8 @@
+Class: age_construct universe_fuzzy_variables: 0 - 140
+Name: Old range: 65 - ~
+Name: Middle range: 30 - 100
+Name: Young range: 0 - 40
+Class: quality_construct universe_fuzzy_variables: 0 - 100
+Name: Bad range: 0 - 45
+Name: Normal range: 30 - 80
+Name: Good range: 60 - 100

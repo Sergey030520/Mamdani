@@ -1,0 +1,6 @@
+Class: building_condition universe_fuzzy_variables: 0 - 100
+Name: good range: 0 - 30
+Name: satisfactory range: 25 - 55
+Name: unsatisfactory range: 45 - 75
+Name: dilapidated range: 65 - 87
+Name: unfit range: 80 - ~

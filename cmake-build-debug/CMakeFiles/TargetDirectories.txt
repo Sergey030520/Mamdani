@@ -1,0 +1,3 @@
+C:/Users/Malip/source/repos/Mamdani/cmake-build-debug/CMakeFiles/Mamdani.dir
+C:/Users/Malip/source/repos/Mamdani/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Malip/source/repos/Mamdani/cmake-build-debug/CMakeFiles/rebuild_cache.dir
